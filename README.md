@@ -3,12 +3,12 @@
 ## Team Name and Members
 Sp24_61608_Group 2
 
-1. Dylan Artis @DJA706
-2. Dana Baus @Dananasplitt
-3. Molly Butkovich @mollybutkovich
-4. Connor Coniglio @ConnorConiglio
-5. Thomas Le @thomasle123
-6. Alex Quinlan @AlexQuinlan12
+1. Dylan Artis (https://github.com/DJA706)
+2. Dana Baus (https://github.com/Dananasplitt)
+3. Molly Butkovich (https://github.com/mollybutkovich)
+4. Connor Coniglio (https://github.com/ConnorConiglio)
+5. Thomas Le (https://github.com/thomasle123)
+6. Alex Quinlan (https://github.com/AlexQuinlan12)
 
 ## Describing your dataset and what data it contains: 
 The dataset contains information on meteorite landings all over the world from the years 860 to 2012. The data set is sponsored by NASA and can be found here: https://catalog.data.gov/organization/about/nasa-gov.  The dataset contains 45,717 rows and 10 columns. Each column provides invaluable information regarding each meteorite’s name, ID,  nametype, reclass, fall, year, reclat, relong, and geolocation. Six of the ten columns of data were the string datatype. Those columns included fall, geographic location, name, nametype, reclass, and year. However, the year datatype was later adjusted as explained in the manipulations sections. One of the ten columns, Id,  was the Number (whole) datatype. The remaining three of the ten columns were the Number (decimal) datatype. Those columns include mass, reclat, and relong. However, the geographical roles of the reclat and relong columns were manipulated as described in the manipulations section. 
