@@ -38,6 +38,9 @@ Note: Row 30,684 has data containing the year as “2101.” However, we believe
 ## Manipulations applied to the data set as part of the analysis:
 The data set did not require any manipulations of the functions of the columns. However, some of the datatypes within the dataset needed to be adjusted. The “Year” datatype was converted from “Number” to “Date” datatype in order for our visualizations to be shown over time. Additionally, the “Reclat'' Geographical Role needed to be switched to “Latitude,” and the “Relong” Geographical Role needed to be switched to “Longitude.” 
 
+**Tableau Workbook:**
+https://github.com/mollybutkovich/MIST-4610-Group2-Project2/blob/8446d91457759c09633219025a0d3d96654c5f93/Group%20project%202.twbx
+
 
 	
 
