@@ -17,7 +17,7 @@ The first column, name, describes the name of the meteorite. The second column, 
 
 Note: Row 30,684 has data containing the year as “2101.” However, we believe that the data input is incorrect. According to Google, it should say “2010.” 
 
-## Question 1##
+## Question 1
 
 **Question 1:** What are the names and locations of the meteorites with a mass greater than 20,000,000? 
 
@@ -28,7 +28,7 @@ Note: Row 30,684 has data containing the year as “2101.” However, we believe
 
   **Analysis:** For problem 1, we tried to figure out where the big meteorites tend to land on Earth. To be classified as a big meteorite, it had to weigh more than 20 million grams in mass. By tracking the meteorites' longitude and latitude, we found that the bigger meteorites are sporadically spread across the globe, hitting every continent except for Europe and Antarctica. We can conclude two things from this visualization. First, big meteorites will rarely hit the earth as only 22 out of the 45716 meteorite strikes involved big meteorites. Second, it will be hard to predict where the next big meteorite strike will hit, but the majority of the big meteorites tend to hit North America and Africa as North America has had 3 meteorites and Africa has had 2 meteorites hit.
 
-## Question 2## 
+## Question 2
 **Question 2:** How has the mass of all L6 meteorites changed over time from 2000 and how is it projected to change over the next 20 years from 2012?
 
   **Results:** Mass of the L6 meteorites appears to spike in 2002, but is forecasted to have small spikes until 2032. 
