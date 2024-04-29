@@ -43,6 +43,23 @@ The data set did not require any manipulations of the functions of the columns. 
 ## Tableau Workbook:
 https://github.com/mollybutkovich/MIST-4610-Group2-Project2/blob/8446d91457759c09633219025a0d3d96654c5f93/Group%20project%202.twbx
 
+## Molly Butkovich: Honors Addition
+**Question 3:** What is the average mass of each Lunar class of meteorites from the years 1990 to 2012? Also, show the location of all the meteorites in the class “Lunar (feldsp. breccia)”. 
+
+**Importance**: Lunar meteorites are rocks found on Earth that came from the Earth’s moon. The Earth’s moon has minimal protection from outside meteoroids due to it having no atmosphere to stop the meteoroids’ impact. Oftentimes, meteoroids travel into the moon at extremely fast speeds causing a collision which could lead to a Lunar rock to chipping off and exiting the moon’s gravitational pull. From there, the lunar rocks will enter orbits of nearby planets, in this case, Earth. Over time, the rocks will fall out of the Earth’s orbit and hit the ground, but it could be tens of millions of years before this instance occurs (Korotev, n.d.). The question posed is interesting because it studies the classes of meteorites that come from our very own moon. Although it is hard to forecast what time exactly the rocks will fall onto Earth, the first visualization will highlight the average masses of each Lunar class and could play a role in the classification of each individual meteorite. Additionally, Lunar meteorites will continue to be found on Earth for years to come because the moon has no atmospheric protection. In turn, scientists could continue to study these rock formations and use this information to gain further knowledge about the moon’s components. As well as gain a deeper understanding of potentially finding a future correlation between when and where a meteorite will fall. Scientists will be able to utilize this data to continuously track meteorites for years to come and possibly start to find correlations or information regarding areas of space we know less about.  
+![Screenshot (163)](https://github.com/mollybutkovich/MIST-4610-Group2-Project2/assets/163011335/c4f5aa37-9942-4e2e-ad06-b5700c9cb3e4)
+
+**Visualization 1 analysis:** This visualization shows a breakdown of the average mass of meteorites organized by their classification from the years 1990-2012. According to the line graph, the classes Lunar (basalt) and Lunar (feldsp. breccia) tend to have larger masses of meteorites, on average. This visualization also shows scientists which years certain classes had larger masses of meteorites, on average. The information could be studied for years to come to see if the Lunar classes continue to have larger masses, on average, or if it just occurred for a few years. 
+![Screenshot (164)](https://github.com/mollybutkovich/MIST-4610-Group2-Project2/assets/163011335/ce5d09e1-0360-44cf-91ec-1f7ff1b9ca75)
+
+**Visualization 2 explanation:** This visualization demonstrates the location areas of the most common Lunar meteorites, Lunar (feldsp. breccia). These meteorites are composed of the most common minerals of the crust of the Earth and the moon (Korotev, n.d.). As demonstrated by the map visualization, the meteorites tend to land in the same areas which indicates that the pieces likely broke apart as they entered the Earth’s atmosphere or upon impact. This information is beneficial because it shows scientists that Lunar meteorites will likely be lumped together in the same locations. Additionally, it demonstrates to scientists that they should search in surrounding areas when a Lunar (feldsp. breccia) is discovered.
+
+**Tableau packaged workbook:**
+Group project 2- Molly Butkovich Honors Option.twbx
+
+**Works Cited:** 
+Korotev, R. L. (n.d.). Lunar meteorites. Lunar meteorites | Some Meteorite Information. Retrieved April 28, 2024, from https://sites.wustl.edu/meteoritesite/items/lunar-meteorites/
+
 
 	
 
